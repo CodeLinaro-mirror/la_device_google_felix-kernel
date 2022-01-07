@@ -120,8 +120,6 @@ kernel/drivers/watchdog/s3c2410_wdt.ko
 kernel/drivers/cpufreq/exynos-acme.ko
 kernel/drivers/clocksource/exynos_mct.ko
 kernel/drivers/devfreq/google/exynos_devfreq.ko
-kernel/drivers/devfreq/google/arm-memlat-mon.ko
-kernel/drivers/devfreq/google/governor_memlat.ko
 kernel/drivers/devfreq/google/memlat-devfreq.ko
 kernel/drivers/iio/power/odpm.ko
 kernel/drivers/trusty/trusty-core.ko
@@ -160,15 +158,12 @@ extra/max77759_charger.ko
 extra/net/mcps802154/mcps802154.ko
 extra/net/mcps802154/mcps802154_region_fira.ko
 extra/net/mcps802154/mcps802154_region_nfcc_coex.ko
-extra/nitrous.ko
 extra/p9221.ko
-extra/panel/panel-boe-nt37290.ko
 extra/panel/panel-samsung-drv.ko
 extra/panel/panel-samsung-emul.ko
 extra/panel/panel-samsung-s6e3fc3-p10.ko
 extra/panel/panel-samsung-s6e3fc3.ko
 extra/panel/panel-samsung-s6e3hc2.ko
-extra/panel/panel-samsung-s6e3hc3-c10.ko
 extra/panel/panel-samsung-s6e3hc3.ko
 extra/panel/panel-samsung-sofef01.ko
 extra/pca9468.ko
