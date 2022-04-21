@@ -5,6 +5,7 @@ kernel/drivers/pinctrl/pinctrl-slg51000.ko
 kernel/drivers/pinctrl/pinctrl-slg51002.ko
 kernel/drivers/soc/google/vh/kernel/mm/vh_mm.ko
 kernel/drivers/soc/google/bcm_dbg.ko
+kernel/drivers/soc/google/pixel_em/pixel_em.ko
 kernel/drivers/soc/google/pixel_stat/pixel_stat_sysfs.ko
 kernel/drivers/soc/google/pixel_stat/mm/pixel_stat_mm.ko
 kernel/drivers/regulator/slg51000-regulator.ko
@@ -28,7 +29,6 @@ kernel/drivers/hwtracing/coresight/coresight-replicator.ko
 kernel/drivers/hwtracing/coresight/coresight-etm4x.ko
 extra/bcmdhd4389.ko
 extra/bigocean.ko
-extra/btpower.ko
 extra/cl_dsp.ko
 extra/drv2624.ko
 extra/fpc1020_platform_tee.ko
