@@ -162,6 +162,7 @@ extra/max77759_charger.ko
 extra/net/mcps802154/mcps802154.ko
 extra/net/mcps802154/mcps802154_region_fira.ko
 extra/net/mcps802154/mcps802154_region_nfcc_coex.ko
+extra/nitrous.ko
 extra/p9221.ko
 extra/panel-samsung-ana6707-f10.ko
 extra/panel/panel-samsung-drv.ko
