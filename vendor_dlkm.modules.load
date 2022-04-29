@@ -22,6 +22,8 @@ kernel/drivers/input/misc/vl53l1/stmvl53l1.ko
 kernel/drivers/input/fingerprint/goodixfp.ko
 kernel/drivers/thermal/samsung/gpu_cooling.ko
 kernel/drivers/perf/arm_dsu_pmu.ko
+kernel/drivers/pps/clients/pps-gpio.ko
+kernel/drivers/pps/pps_core.ko
 kernel/drivers/hwtracing/coresight/coresight.ko
 kernel/drivers/hwtracing/coresight/coresight-tmc.ko
 kernel/drivers/hwtracing/coresight/coresight-funnel.ko
@@ -32,6 +34,7 @@ extra/bigocean.ko
 extra/cl_dsp.ko
 extra/drv2624.ko
 extra/fpc1020_platform_tee.ko
+extra/fst2.ko
 extra/ftm5.ko
 extra/goog_touch_interface.ko
 extra/google_dock.ko
