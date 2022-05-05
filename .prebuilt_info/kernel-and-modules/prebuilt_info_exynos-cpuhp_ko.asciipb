@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "8516375"
+    build_id: "8532032"
     target: "felix"
     source_file: "exynos-cpuhp.ko"
   }
