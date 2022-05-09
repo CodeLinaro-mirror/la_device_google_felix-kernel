@@ -165,6 +165,7 @@ extra/net/mcps802154/mcps802154_region_nfcc_coex.ko
 extra/nitrous.ko
 extra/p9221.ko
 extra/panel-samsung-ana6707-f10.ko
+extra/panel-samsung-ea8182-f10.ko
 extra/panel/panel-samsung-drv.ko
 extra/panel/panel-samsung-emul.ko
 extra/panel/panel-samsung-s6e3fc3-p10.ko
