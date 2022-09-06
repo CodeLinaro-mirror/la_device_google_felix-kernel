@@ -94575,11 +94575,11 @@ ffffffc0122330c8 D kallsyms_markers
 ffffffc012233958 D kallsyms_token_table
 ffffffc012233cf8 D kallsyms_token_index
 ffffffc01223ad55 d hci_reset_dev.hw_err
-ffffffc01226b68e d max_tt_usecs
-ffffffc01228812d d ptychar
-ffffffc01229431b d task_index_to_char.state_char.8826
-ffffffc0122a1860 d trunc_msg
-ffffffc0122a99b2 d show_irq_gap.zeros
+ffffffc01226b6c2 d max_tt_usecs
+ffffffc012288161 d ptychar
+ffffffc01229434f d task_index_to_char.state_char.8826
+ffffffc0122a1894 d trunc_msg
+ffffffc0122a99e6 d show_irq_gap.zeros
 ffffffc0122c35b3 d f_midi_shortname
 ffffffc0122f6188 d f_midi_longname
 ffffffc012337c08 d str__initcall__trace_system_name
