@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9431163"
+    build_id: "9441670"
     target: "felix_kasan"
     source_file: "st33spi.ko"
   }
   dest_file: "kasan/st33spi.ko"
-  version: "Linux version 5.10.107-android13-4-688379-g23a9f3907585-ab9431163 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Dec 19 10:54:53 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-688380-gfbb3f0f43e7e-ab9441670 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Dec 26 07:00:03 UTC 2022"
   version_group: "kernel-and-modules"
   git_project: "device/google/felix-kernel"
 }
