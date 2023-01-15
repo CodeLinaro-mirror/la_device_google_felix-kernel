@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "9452147"
+    build_id: "9472563"
     target: "felix_debug_kmemleak"
     source_file: "bc_max77759.ko"
   }
   dest_file: "debug_kmemleak/bc_max77759.ko"
-  version: "Linux version 5.10.107-android13-4-688387-g795687ad7e13-ab9452147 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Mon Dec 19 11:29:07 UTC 2022"
+  version: "Linux version 5.10.107-android13-4-688390-gfcd0a2a7cb0e-ab9472563 (build-user@build-host) (Android (8508608, based on r450784e) clang version 14.0.7 (https://android.googlesource.com/toolchain/llvm-project 4c603efb0cca074e9238af8b4106c30add4418f6), LLD 14.0.7) #1 SMP PREEMPT Tue Jan 3 09:18:56 UTC 2023"
   version_group: "kernel-and-modules"
   git_project: "device/google/felix-kernel"
 }
