@@ -153,6 +153,7 @@ extra/google-battery.ko
 extra/google-bms.ko
 extra/google-charger.ko
 extra/google-cpm.ko
+extra/google_dual_batt_gauge.ko
 extra/hall_sensor.ko
 extra/heatmap.ko
 extra/janeiro.ko
