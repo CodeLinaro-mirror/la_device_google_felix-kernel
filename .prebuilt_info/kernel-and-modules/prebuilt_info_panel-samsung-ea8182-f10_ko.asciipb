@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9578605"
+    build_id: "9583561"
     target: "felix"
     source_file: "panel-samsung-ea8182-f10.ko"
   }
