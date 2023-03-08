@@ -38,7 +38,6 @@ extra/fst2.ko
 extra/ftm5.ko
 extra/goog_touch_interface.ko
 extra/google_dock.ko
-extra/google_dual_batt_gauge.ko
 extra/gxp.ko
 extra/input-cs40l26-i2c.ko
 extra/lwis.ko
@@ -53,3 +52,4 @@ extra/panel/panel-samsung-s6e3hc4.ko
 extra/snd-soc-cs35l41-i2c.ko
 extra/snd-soc-cs35l45-i2c.ko
 extra/snd-soc-cs40l26.ko
+extra/wlan_ptracker.ko
