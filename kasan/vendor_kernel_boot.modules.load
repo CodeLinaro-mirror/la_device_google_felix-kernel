@@ -23,6 +23,7 @@ kernel/drivers/soc/google/debug/exynos-adv-tracer.ko
 kernel/drivers/soc/google/debug/exynos-adv-tracer-s2d.ko
 kernel/drivers/soc/google/debug/pixel-boot-metrics.ko
 kernel/drivers/soc/google/debug/sjtag-driver.ko
+kernel/drivers/soc/google/debug/etm2dram.ko
 kernel/drivers/soc/google/vh/kernel/sched/vh_sched.ko
 kernel/drivers/soc/google/vh/kernel/sched/sched_tp.ko
 kernel/drivers/soc/google/vh/kernel/sched/vh_preemptirq_long.ko
@@ -152,6 +153,7 @@ extra/google-battery.ko
 extra/google-bms.ko
 extra/google-charger.ko
 extra/google-cpm.ko
+extra/google_dual_batt_gauge.ko
 extra/hall_sensor.ko
 extra/heatmap.ko
 extra/janeiro.ko
