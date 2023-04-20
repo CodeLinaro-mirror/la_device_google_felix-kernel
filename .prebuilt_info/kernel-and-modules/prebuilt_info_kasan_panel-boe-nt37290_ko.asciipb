@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "9953361"
+    build_id: "9977610"
     target: "felix_kasan"
     source_file: "panel-boe-nt37290.ko"
   }
