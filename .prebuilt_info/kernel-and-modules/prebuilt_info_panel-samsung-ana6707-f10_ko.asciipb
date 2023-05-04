@@ -1,6 +1,6 @@
 drops {
   android_build_drop {
-    build_id: "10061752"
+    build_id: "10014715"
     target: "felix"
     source_file: "panel-samsung-ana6707-f10.ko"
   }
