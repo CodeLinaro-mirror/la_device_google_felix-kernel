@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11466860"
+    build_id: "11485779"
     target: "felix"
     source_file: "exynos-drm.ko"
   }
   dest_file: "exynos-drm.ko"
-  version: "11466860"
+  version: "11485779"
   version_group: "kernel-and-modules"
   git_project: "device/google/felix-kernel"
 }
