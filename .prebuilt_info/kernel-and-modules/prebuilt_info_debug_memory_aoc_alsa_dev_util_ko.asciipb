@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11485779"
+    build_id: "11503673"
     target: "felix_debug_memory"
     source_file: "aoc_alsa_dev_util.ko"
   }
   dest_file: "debug_memory/aoc_alsa_dev_util.ko"
-  version: "11485779"
+  version: "11503673"
   version_group: "kernel-and-modules"
   git_project: "device/google/felix-kernel"
 }

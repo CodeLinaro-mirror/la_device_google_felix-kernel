@@ -1,11 +1,11 @@
 drops {
   android_build_drop {
-    build_id: "11485779"
+    build_id: "11503673"
     target: "felix_debug_locking"
     source_file: "pixel_stat_sysfs.ko"
   }
   dest_file: "debug_locking/pixel_stat_sysfs.ko"
-  version: "11485779"
+  version: "11503673"
   version_group: "kernel-and-modules"
   git_project: "device/google/felix-kernel"
 }
